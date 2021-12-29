@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.020_Update Tab Address - Legal Address</name>
+   <tag></tag>
+   <comment>Spouse
+Emergency Contact</comment>
+   <testCaseGuid>c1b395fa-1793-415f-bb84-0885e560c6b7</testCaseGuid>
+</TestCaseEntity>

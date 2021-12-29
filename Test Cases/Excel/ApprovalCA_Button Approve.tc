@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ApprovalCA_Button Approve</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>786d5f1e-3a6e-4cbd-878d-15f3a79edde8</testCaseGuid>
+   <variable>
+      <defaultValue>'202008690LS00061'</defaultValue>
+      <description></description>
+      <id>f18f9e68-7187-46ea-9f69-590ecfce2d2b</id>
+      <masked>false</masked>
+      <name>AppNum</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.001_Displays the Input data Leads page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4563d3a1-06a8-46e4-82c9-155b13558037</testCaseGuid>
+</TestCaseEntity>

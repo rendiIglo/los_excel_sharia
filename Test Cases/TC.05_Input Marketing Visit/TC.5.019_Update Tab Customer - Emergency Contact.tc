@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.019_Update Tab Customer - Emergency Contact</name>
+   <tag></tag>
+   <comment>Spouse
+Emergency Contact</comment>
+   <testCaseGuid>7d3ff763-7d97-429d-afe4-16e4888195b9</testCaseGuid>
+</TestCaseEntity>

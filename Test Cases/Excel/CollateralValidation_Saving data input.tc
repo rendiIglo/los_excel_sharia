@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CollateralValidation_Saving data input</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b31213f9-e9c5-49f7-9d55-a9bc8b3fbafc</testCaseGuid>
+   <variable>
+      <defaultValue>'202008690LS00038'</defaultValue>
+      <description></description>
+      <id>451de774-de31-4a92-92ea-1df8ecadfa04</id>
+      <masked>false</masked>
+      <name>AppNum</name>
+   </variable>
+</TestCaseEntity>

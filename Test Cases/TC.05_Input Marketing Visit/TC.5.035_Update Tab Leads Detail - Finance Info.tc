@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.035_Update Tab Leads Detail - Finance Info</name>
+   <tag></tag>
+   <comment>Spouse
+Emergency Contact
+Address
+Job
+Office Info
+Other Jobs
+Document
+Additional
+Income Pasangan
+Leads Detail
+Collateral</comment>
+   <testCaseGuid>0c647aae-d678-4054-aa5a-104605421293</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TitipanCustomer_Save</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30279a5d-f24c-4eaf-8fea-fb3eb810cb5d</testCaseGuid>
+   <variable>
+      <defaultValue>'202008690LS00067'</defaultValue>
+      <description></description>
+      <id>e96a6e64-6644-47ea-a3f5-26acd2ffb975</id>
+      <masked>false</masked>
+      <name>AppNum</name>
+   </variable>
+</TestCaseEntity>

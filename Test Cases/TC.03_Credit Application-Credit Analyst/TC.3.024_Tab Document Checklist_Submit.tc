@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.024_Tab Document Checklist_Submit</name>
+   <tag></tag>
+   <comment>Collateral
+Customer
+Finance Info
+Document</comment>
+   <testCaseGuid>2ab3274e-34ba-4392-bb27-f41d49a6690a</testCaseGuid>
+</TestCaseEntity>

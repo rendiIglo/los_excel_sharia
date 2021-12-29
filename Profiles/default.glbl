@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://mail.dev-ad.co.id/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fmail.dev-ad.co.id%2fowa'</initValue>
+      <name>outlookURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'nanang@dev-ad.co.id'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Indocyber.100'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'E:\\my Documents\\ekreasi\\internal project\\Katalon\\lfaexcel76'</initValue>
+      <name>projectPath</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

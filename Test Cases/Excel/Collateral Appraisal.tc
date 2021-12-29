@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Collateral Appraisal</name>
+   <tag></tag>
+   <comment>Document</comment>
+   <testCaseGuid>ab327d07-89ed-47fe-b85b-07f7835325ee</testCaseGuid>
+   <variable>
+      <defaultValue>'20200814690L000286'</defaultValue>
+      <description></description>
+      <id>bc86e615-2819-436e-86f0-fc75a759dcda</id>
+      <masked>false</masked>
+      <name>leadsID</name>
+   </variable>
+</TestCaseEntity>

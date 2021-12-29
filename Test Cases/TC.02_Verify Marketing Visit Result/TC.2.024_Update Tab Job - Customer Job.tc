@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.024_Update Tab Job - Customer Job</name>
+   <tag></tag>
+   <comment>Document
+Customer
+Spouse
+Emergency Contact
+Address
+Jobs</comment>
+   <testCaseGuid>bbbebe10-e5ca-4942-a2ba-737fddf8a684</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.032_View Tab Leads Detail</name>
+   <tag></tag>
+   <comment>Document
+Customer
+Spouse
+Emergency Contact
+Address
+Jobs
+Additional Info
+pasangan</comment>
+   <testCaseGuid>b9adaca7-7542-4553-93b5-675b4028894c</testCaseGuid>
+</TestCaseEntity>

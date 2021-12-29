@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.4.020_Tab Credit Summary</name>
+   <tag></tag>
+   <comment>Collateral
+Customer
+Finance Info</comment>
+   <testCaseGuid>f5ce8c49-6d0b-4532-b762-1a44336957ba</testCaseGuid>
+</TestCaseEntity>

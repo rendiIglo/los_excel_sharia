@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.017_Button Approve</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1cada9f7-5f75-4ddd-8a90-e18017366219</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d5beb907-16f8-476f-a1ab-37b333418e0a</id>
+      <masked>false</masked>
+      <name>LeadsID</name>
+   </variable>
+</TestCaseEntity>

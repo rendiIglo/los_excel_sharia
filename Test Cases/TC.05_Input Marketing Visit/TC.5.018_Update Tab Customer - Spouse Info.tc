@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.018_Update Tab Customer - Spouse Info</name>
+   <tag></tag>
+   <comment>Spouse
+Emergency Contact</comment>
+   <testCaseGuid>652ca9c9-ef5b-4eb6-ad5d-f7321f6f6481</testCaseGuid>
+</TestCaseEntity>

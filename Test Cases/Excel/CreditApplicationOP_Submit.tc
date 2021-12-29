@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreditApplicationOP_Submit</name>
+   <tag></tag>
+   <comment>Collateral
+Customer
+Finance Info
+Document</comment>
+   <testCaseGuid>3906d61b-4682-4d36-8073-9fb7f1821386</testCaseGuid>
+   <variable>
+      <defaultValue>'202008690LS00065'</defaultValue>
+      <description></description>
+      <id>e176d4e5-a1fe-4821-b31e-cb118b035da2</id>
+      <masked>false</masked>
+      <name>AppNum</name>
+   </variable>
+</TestCaseEntity>

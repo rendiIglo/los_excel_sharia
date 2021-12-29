@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PrintDoc_Download file BAST</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88fb457c-ca21-48fb-8648-77a9f5fe7805</testCaseGuid>
+   <variable>
+      <defaultValue>'202008690LS00065'</defaultValue>
+      <description></description>
+      <id>3676e58c-9da4-40b9-96d8-2883f5783a99</id>
+      <masked>false</masked>
+      <name>AppNum</name>
+   </variable>
+</TestCaseEntity>

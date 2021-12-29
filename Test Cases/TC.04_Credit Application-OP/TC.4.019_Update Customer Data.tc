@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.4.019_Update Customer Data</name>
+   <tag></tag>
+   <comment>Collateral
+Customer</comment>
+   <testCaseGuid>20e84f19-cc6f-4e4b-b8fc-67955d5b0446</testCaseGuid>
+</TestCaseEntity>

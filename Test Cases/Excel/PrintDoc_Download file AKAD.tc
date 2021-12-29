@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PrintDoc_Download file AKAD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1d2c8d4-8a06-415f-87c5-0247e641bfb0</testCaseGuid>
+   <variable>
+      <defaultValue>'202008690LS00065'</defaultValue>
+      <description></description>
+      <id>2a097989-7133-4387-83b8-5b39b23106ba</id>
+      <masked>false</masked>
+      <name>AppNum</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.036_Direct to Approval CAA</name>
+   <tag></tag>
+   <comment>Document
+Customer
+Spouse
+Emergency Contact
+Address
+Jobs
+Additional Info
+pasangan
+Leads Detail</comment>
+   <testCaseGuid>843020ef-2306-441c-8179-8de411b92837</testCaseGuid>
+</TestCaseEntity>

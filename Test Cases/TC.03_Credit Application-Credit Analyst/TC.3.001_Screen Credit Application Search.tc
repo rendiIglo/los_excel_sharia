@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.001_Screen Credit Application Search</name>
+   <tag></tag>
+   <comment>Collateral
+Customer
+Finance Info
+Document</comment>
+   <testCaseGuid>8ad99350-9086-4c1d-a6d1-6b8bc01c7c7e</testCaseGuid>
+</TestCaseEntity>

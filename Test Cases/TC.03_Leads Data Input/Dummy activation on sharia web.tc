@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dummy activation on sharia web</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2e3533f-6294-46ce-a69a-c6285c9c63b1</testCaseGuid>
+   <variable>
+      <defaultValue>'20200716690L000502'</defaultValue>
+      <description></description>
+      <id>2c1e0a91-fa9d-46cc-bd93-dc5f9e9561f0</id>
+      <masked>false</masked>
+      <name>lead_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'00716690L000502'</defaultValue>
+      <description></description>
+      <id>7559dc03-6eed-4ae9-a4d3-5698739374a5</id>
+      <masked>false</masked>
+      <name>customer_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'C00716690L000502'</defaultValue>
+      <description></description>
+      <id>3ce01a32-f5bf-417f-b620-3f889266fb1a</id>
+      <masked>false</masked>
+      <name>customer_id_sharia</name>
+   </variable>
+   <variable>
+      <defaultValue>'Actived'</defaultValue>
+      <description></description>
+      <id>e74c13dc-8133-4654-99b6-3fa0a766add1</id>
+      <masked>false</masked>
+      <name>activation_status</name>
+   </variable>
+</TestCaseEntity>

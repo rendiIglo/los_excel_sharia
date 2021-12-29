@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.019_Update Customer Data</name>
+   <tag></tag>
+   <comment>Collateral
+Customer
+Finance Info</comment>
+   <testCaseGuid>5c4a4030-0994-4b71-9b4e-f0bd3173c5dc</testCaseGuid>
+</TestCaseEntity>

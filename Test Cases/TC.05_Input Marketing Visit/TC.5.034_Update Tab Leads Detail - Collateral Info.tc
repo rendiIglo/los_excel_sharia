@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.034_Update Tab Leads Detail - Collateral Info</name>
+   <tag></tag>
+   <comment>Spouse
+Emergency Contact
+Address
+Job
+Office Info
+Other Jobs
+Document
+Additional
+Income Pasangan
+Leads Detail</comment>
+   <testCaseGuid>a31e9dc0-0b8c-425a-b4c3-f87da97c4e55</testCaseGuid>
+</TestCaseEntity>

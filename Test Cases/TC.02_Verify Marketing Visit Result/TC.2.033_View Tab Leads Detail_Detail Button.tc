@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.033_View Tab Leads Detail_Detail Button</name>
+   <tag></tag>
+   <comment>Document
+Customer
+Spouse
+Emergency Contact
+Address
+Jobs
+Additional Info
+pasangan
+Leads Detail</comment>
+   <testCaseGuid>a2fa30b0-625e-4502-b1f7-837776794d37</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>workspace</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7142832d-7f55-48d9-ad90-69f152ed30fb</testCaseGuid>
+   <variable>
+      <defaultValue>'mktSyariah1'</defaultValue>
+      <description></description>
+      <id>d4f51bdf-f959-44d9-859a-d85a9d3030ee</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Indocyber.100'</defaultValue>
+      <description></description>
+      <id>ee72ded9-157d-4168-9d11-951dab635f8b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.027_Update Tab Additional Info, If Job Customer is Karyawan</name>
+   <tag></tag>
+   <comment>Document
+Customer
+Spouse
+Emergency Contact
+Address
+Jobs
+Additional Info</comment>
+   <testCaseGuid>48d80182-4ee8-4604-80c0-e3fb02d11151</testCaseGuid>
+</TestCaseEntity>

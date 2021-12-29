@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.020_Update Tab Customer - Personal Info</name>
+   <tag></tag>
+   <comment>Document
+Customer
+Spouse
+Emergency Contact</comment>
+   <testCaseGuid>b3109274-f46d-4cc8-9239-0ed219138963</testCaseGuid>
+</TestCaseEntity>

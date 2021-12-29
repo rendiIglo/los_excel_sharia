@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.028_Update Tab Additional Info, If Job Spouse is Karyawan</name>
+   <tag></tag>
+   <comment>Document
+Customer
+Spouse
+Emergency Contact
+Address
+Jobs
+Additional Info
+pasangan</comment>
+   <testCaseGuid>767a9780-06a1-4b1e-92f1-79f0be21d13c</testCaseGuid>
+</TestCaseEntity>

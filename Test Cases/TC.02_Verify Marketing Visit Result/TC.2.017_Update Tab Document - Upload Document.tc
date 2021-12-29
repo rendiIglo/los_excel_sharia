@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.017_Update Tab Document - Upload Document</name>
+   <tag></tag>
+   <comment>Document
+Customer
+Spouse
+Emergency Contact</comment>
+   <testCaseGuid>33860f29-a1da-4753-afd2-0695243f4fc0</testCaseGuid>
+</TestCaseEntity>

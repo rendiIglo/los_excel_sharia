@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.023_Update Tab Address - Address</name>
+   <tag></tag>
+   <comment>Document
+Customer
+Spouse
+Emergency Contact</comment>
+   <testCaseGuid>5a74d37f-19f7-4a70-b6d7-fbaeab960f94</testCaseGuid>
+</TestCaseEntity>
